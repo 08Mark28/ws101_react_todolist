@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ws101_react_todolist/static/css/main.25f5555c.css",
+    "main.js": "/ws101_react_todolist/static/js/main.027c6297.js",
+    "static/js/453.11efe1e0.chunk.js": "/ws101_react_todolist/static/js/453.11efe1e0.chunk.js",
+    "static/media/Lofi-Sunrise.jpg": "/ws101_react_todolist/static/media/Lofi-Sunrise.873363a2f193e6485902.jpg",
+    "static/media/sunset-gif.gif": "/ws101_react_todolist/static/media/sunset-gif.a3d8a3244b035765ae38.gif",
+    "index.html": "/ws101_react_todolist/index.html",
+    "main.25f5555c.css.map": "/ws101_react_todolist/static/css/main.25f5555c.css.map",
+    "main.027c6297.js.map": "/ws101_react_todolist/static/js/main.027c6297.js.map",
+    "453.11efe1e0.chunk.js.map": "/ws101_react_todolist/static/js/453.11efe1e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f5555c.css",
+    "static/js/main.027c6297.js"
+  ]
+}
